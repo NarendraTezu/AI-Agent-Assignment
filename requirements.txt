@@ -1,0 +1,10 @@
+quart
+flask
+aiocache
+aioredis
+aiohttp
+together
+python-dotenv
+logging
+asyncio
+requests
